@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle demo-slot-cq9",
+        "command": "demo-slot-cq9:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "demo-slot-cq9",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "demo-slot-cq9:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

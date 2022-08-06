@@ -1,0 +1,18 @@
+{
+  "name": "demo-slot-cq9",
+  "main": "./lib/demo-slot-cq9",
+  "version": "1.0.0",
+  "description": "Info Yang Lagi Gacor Info Demo Demo Slot Cq9 No Deposit",
+  "keywords": ["bandar slot online","joker gaming","situs slot online terpercaya","situs slot online terpercaya","slot habanero","pocket gaming soft","slot online gampang menang","situs judi slot online"],
+
+  "activationCommands": {
+    "atom-workspace": "demo-slot-cq9:toggle"
+  },
+  "repository": "https://github.com/gameslotpenghasiluang8/demo-slot-cq9",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}
